@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/NetbeanProjects/JavaSwing_Practice/src/com/javaswing/view/ListDienThoaiFrame.java</file>
+            <file>file:/D:/NetbeanProjects/JavaSwing_Practice/src/com/javaswing/view/ListHoaDonFrame.java</file>
+            <file>file:/D:/NetbeanProjects/JavaSwing_Practice/src/com/javaswing/view/ListNhanVienFrame.java</file>
+            <file>file:/D:/NetbeanProjects/JavaSwing_Practice/src/com/javaswing/view/ListKhachHangFrame.java</file>
+            <file>file:/D:/NetbeanProjects/JavaSwing_Practice/src/com/javaswing/view/LoginForm.java</file>
+            <file>file:/D:/NetbeanProjects/JavaSwing_Practice/src/com/javaswing/view/MenuManage.java</file>
+            <file>file:/D:/NetbeanProjects/JavaSwing_Practice/src/com/javaswing/dao/HoaDonDao.java</file>
+            <file>file:/D:/NetbeanProjects/JavaSwing_Practice/src/com/javaswing/view/ListKhoFrame.java</file>
+            <file>file:/D:/NetbeanProjects/JavaSwing_Practice/src/com/javaswing/service/KhachHangService.java</file>
+            <file>file:/D:/NetbeanProjects/JavaSwing_Practice/src/com/javaswing/model/NhanVien.java</file>
+            <file>file:/D:/NetbeanProjects/JavaSwing_Practice/src/com/javaswing/dao/KhachHangDao.java</file>
+            <file>file:/D:/NetbeanProjects/JavaSwing_Practice/src/com/javaswing/view/ListChiNhanhFrame.java</file>
+            <file>file:/D:/NetbeanProjects/JavaSwing_Practice/src/com/javaswing/service/NhanVienService.java</file>
+        </group>
+    </open-files>
+</project-private>
